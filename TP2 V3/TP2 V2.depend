@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1444865183 source:c:\users\kevin\desktop\tp2 v2\main.cpp
+	<iostream>
+	"Casillero.h"
+
+1444845084 source:c:\users\kevin\desktop\tp2 v2\easybmp.cpp
+	"EasyBMP.h"
+
+1164942336 c:\users\kevin\desktop\tp2 v2\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1164942154 c:\users\kevin\desktop\tp2 v2\easybmp_datastructures.h
+
+1164943232 c:\users\kevin\desktop\tp2 v2\easybmp_bmp.h
+
+1164942162 c:\users\kevin\desktop\tp2 v2\easybmp_variousbmputilities.h
+
+1444861380 c:\users\kevin\desktop\tp2 v2\casillero.h
+	<iostream>
+	"Coordenada.h"
+	"Color.h"
+
+1444861745 source:c:\users\kevin\desktop\tp2 v2\casillero.cpp
+	"Casillero.h"
+
+1444864223 c:\users\kevin\desktop\tp2 v2\coordenada.h
+	<iostream>
+
+1444861659 c:\users\kevin\desktop\tp2 v2\color.h
+	<iostream>
+
+1444867224 source:c:\users\kef\desktop\tp2 v2\camino.cpp
+	<iostream>
+	"Camino.h"
+
+1444867224 c:\users\kef\desktop\tp2 v2\camino.h
+	<iostream>
+	"Casillero.h"
+
+1444867226 c:\users\kef\desktop\tp2 v2\casillero.h
+	<iostream>
+	"Coordenada.h"
+	"Color.h"
+
+1444867226 c:\users\kef\desktop\tp2 v2\coordenada.h
+	<iostream>
+
+1444867226 c:\users\kef\desktop\tp2 v2\color.h
+	<iostream>
+
+1444867226 source:c:\users\kef\desktop\tp2 v2\casillero.cpp
+	"Casillero.h"
+
+1444867226 source:c:\users\kef\desktop\tp2 v2\easybmp.cpp
+	"EasyBMP.h"
+
+1444867226 c:\users\kef\desktop\tp2 v2\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1444867226 c:\users\kef\desktop\tp2 v2\easybmp_datastructures.h
+
+1444867226 c:\users\kef\desktop\tp2 v2\easybmp_bmp.h
+
+1444867226 c:\users\kef\desktop\tp2 v2\easybmp_variousbmputilities.h
+
+1444867226 source:c:\users\kef\desktop\tp2 v2\main.cpp
+	<iostream>
+	"Casillero.h"
+

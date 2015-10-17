@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1444867226 source:c:\users\kef\desktop\tp2 v3\casillero.cpp
+	"Casillero.h"
+
+1444867226 c:\users\kef\desktop\tp2 v3\casillero.h
+	<iostream>
+	"Coordenada.h"
+	"Color.h"
+
+1444867226 c:\users\kef\desktop\tp2 v3\coordenada.h
+	<iostream>
+
+1444867226 c:\users\kef\desktop\tp2 v3\color.h
+	<iostream>
+
+1444867226 source:c:\users\kef\desktop\tp2 v3\easybmp.cpp
+	"EasyBMP.h"
+
+1444867226 c:\users\kef\desktop\tp2 v3\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1444867226 c:\users\kef\desktop\tp2 v3\easybmp_datastructures.h
+
+1444867226 c:\users\kef\desktop\tp2 v3\easybmp_bmp.h
+
+1444867226 c:\users\kef\desktop\tp2 v3\easybmp_variousbmputilities.h
+
+1444954446 source:c:\users\kef\desktop\tp2 v3\main.cpp
+	<iostream>
+	"Camino.h"
+
+1444954803 c:\users\kef\desktop\tp2 v3\camino.h
+	<iostream>
+	"Casillero.h"
+
+1444956000 source:c:\users\kef\desktop\tp2 v3\camino.cpp
+	<iostream>
+	"Camino.h"
+
+1444956000 source:c:\users\mathias\desktop\tp2 v3\camino.cpp
+	<iostream>
+	"Camino.h"
+
+1445038147 c:\users\mathias\desktop\tp2 v3\camino.h
+	<iostream>
+	"Casillero.h"
+
+1444867226 c:\users\mathias\desktop\tp2 v3\casillero.h
+	<iostream>
+	"Coordenada.h"
+	"Color.h"
+
+1444867226 c:\users\mathias\desktop\tp2 v3\coordenada.h
+	<iostream>
+
+1444867226 c:\users\mathias\desktop\tp2 v3\color.h
+	<iostream>
+
+1444867226 source:c:\users\mathias\desktop\tp2 v3\casillero.cpp
+	"Casillero.h"
+
+1444867226 source:c:\users\mathias\desktop\tp2 v3\easybmp.cpp
+	"EasyBMP.h"
+
+1444867226 c:\users\mathias\desktop\tp2 v3\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1444867226 c:\users\mathias\desktop\tp2 v3\easybmp_datastructures.h
+
+1444867226 c:\users\mathias\desktop\tp2 v3\easybmp_bmp.h
+
+1444867226 c:\users\mathias\desktop\tp2 v3\easybmp_variousbmputilities.h
+
+1444956780 source:c:\users\mathias\desktop\tp2 v3\main.cpp
+	<iostream>
+	"Camino.h"
+
