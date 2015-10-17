@@ -1,6 +1,10 @@
 /**
     Si no funciona Ctrl+F11, en Code Blocks o entro compilador
     busquen la opcion Rebuild...
+    
+    GKGDSKFSDLFSLDFLS
+    
+    EE:E:E:E:E:EE::E:E:E
 
     ACERCA DE CAMINO..................
 
