@@ -2,9 +2,9 @@
     Si no funciona Ctrl+F11, en Code Blocks o entro compilador
     busquen la opcion Rebuild...
 
-    ACERCA DE CAMINO..
+    ACERCA DE CAMINO..................
 
-    *Incluí los tda Color y Coordenada... por un tema de sobrecarga de parametros.
+    *IncluÃ­ los tda Color y Coordenada... por un tema de sobrecarga de parametros.
     *Los caminos se recorren con un "hacer mientras", (do while() ), trate de q se pareciera
     los mas posible a una lista pero perdia claridad..
     *los metodos para recorrer son:
